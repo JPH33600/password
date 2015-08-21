@@ -15,7 +15,7 @@
 
 	<body>
 		<div class="container col-xs-12">
-			<form>
+			<form method="POST" action="traitement.php">
 				<h1>AUTHENTIFICATION</h1>
 				<div class="row">
 					<input type="text" required name="name" id="name" autofocus placeholder="NOM" class="col-xs-11">
