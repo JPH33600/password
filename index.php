@@ -18,8 +18,8 @@
 			<form>
 				<h1>AUTHENTIFICATION</h1>
 				<div class="row">
-					<input type="text" required name="name" id="name" autofocus placeholder="NOM" class="col-xs-10 col-xs-offset-1">
-					<input type="text" required name="password" id="password" placeholder="mot de passe" class="row">
+					<input type="text" required name="name" id="name" autofocus placeholder="NOM" class="col-xs-11">
+					<input type="password" required name="password" id="password" placeholder="mot de passe" class="col-xs-11">
 					<input type="submit" class="btn-custom col-xs-2 col-xs-offset-5" value="OK">
 				</div>
 				
